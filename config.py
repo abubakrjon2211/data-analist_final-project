@@ -1,5 +1,5 @@
 DB_HOST = "localhost"
-DB_PORT = "5432"
+DB_PORT = "8501"
 DB_NAME = "car_project_db"
 DB_USER = "postgres"
 DB_PASS = "1234"
