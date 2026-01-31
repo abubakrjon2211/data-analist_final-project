@@ -1,16 +1,16 @@
-# Analysis of the Passenger Car Market in Dushanbe
+# Анализ рынка легковых автомобилей в Душанбе
 
-## Project Description
-**Author:** Rustamov Abubakr
-**Goal:** Dashboard creation for monitoring prices on the secondary car market.
-**Stack:** Python, PostgreSQL, Streamlit.
+## Описание проекта
+**Автор:** Рустамов Абубакр.
+**Цель:** Создание панели мониторинга цен на вторичном автомобильном рынке.
+**Используемые технологии:** Python, PostgreSQL, Streamlit.
 
-## Setup
-1. Create a database named `car_project_db` in PostgreSQL.
-2. Update `config.py` with your database password.
-3. Run the scripts in order.
+## Настраивать
+1. Создайте базу данных с именем `car_project_db` в PostgreSQL.
+2. Обновить `config.py` с паролем вашей базы данных.
+3. Запустите скрипты по порядку.
 
-## How to Run
+## Как запустить
 1. `pip install -r requirements.txt`
 2. `python parser.py`
 3. `python ddl.py`
